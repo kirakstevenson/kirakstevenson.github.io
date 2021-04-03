@@ -12,3 +12,7 @@ Hello, my name is Kira Stevenson and I am a senior at Lehigh University majoring
 </script>
 
 [Google Tour](https://poly.google.com/view/1CZj-csPb8p)
+
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Derek Chauvin Tweets Maps" src="//lu.maps.arcgis.com/apps/Embed/index.html?webmap=b0e0b17fbd3a4a6684cf58c114fec8e1&extent=-129.9749,26.1056,-65.9905,55.9427&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe></div>
+
+This is a map I created on arcGIS showing the concentration of tweets throughout the past five days on Derek Chauvin's trial for the murder of George Floyd. I thought this would be an interesting topic to look at to see where the bulk of people following the trial are. Although it took place in Minneapolis, the majority of tweets are concentrated in New York City. This is seen through the yellow dot over New York City. However, Minneapolis has the second highest concentration. The tweets are also widespread across the United States. 
