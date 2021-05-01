@@ -18,6 +18,7 @@ Another aspect of this lab was to create a line graph. I chose to study public h
 <iframe title="Public Health Expenditure as Percentage of GDP " aria-label="Interactive line chart" id="datawrapper-chart-Fudy6" src="https://datawrapper.dwcdn.net/Fudy6/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+
 # Google Tour Lab
 
 For this lab, we were assigned with creating a visual story through various 360 videos. As an avid walker, I chose to display some of my favorite places to walk. By creating an immersive experience, it allows viewers to get a full view of the location you are describing. While photos could do the job, they are stagnant in that they only show one perspective. I found it very interesting to look at not only my own story, but also other examples of 360 video in news stories. 
