@@ -23,8 +23,7 @@ Another aspect of this lab was to create a line graph. I chose to study public h
 
 For this lab, we were assigned with creating a visual story through various 360 videos. As an avid walker, I chose to display some of my favorite places to walk. By creating an immersive experience, it allows viewers to get a full view of the location you are describing. While photos could do the job, they are stagnant in that they only show one perspective. I found it very interesting to look at not only my own story, but also other examples of 360 video in news stories. 
 
-
-[Google Tour](https://poly.google.com/view/1CZj-csPb8p)
+<iframe width="100%" height="480px" src="https://poly.google.com/view/1CZj-csPb8p/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
 # ArcGIS Map Lab
 
